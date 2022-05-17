@@ -22,5 +22,17 @@ let musics = [
         artist:"Ananya Bhat",
         img:"kgf1cover",
         src:"KokhKeRathMein"
+    },
+    {
+        musicName: "Toofan - KGF Chapter 2",
+        artist:"Brijesh Shandilya, Mohan Krishna",
+        img:"kgf2cover",
+        src:"Toofan"
+    },
+    {
+        musicName: "Mehbooba Main Teri - KGF Chapter 2",
+        artist:"Ananya Bhat",
+        img:"kgf2cover",
+        src:"Mehbooba"
     }
 ]
